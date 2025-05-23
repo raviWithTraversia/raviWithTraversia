@@ -20,20 +20,10 @@ I'm a passionate **full-stack web developer** with experience building scalable 
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravi-sharama&show_icons=true&theme=default" alt="Ravi's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-sharama&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ravi-sharama) *(optional link placeholder)*
-- ✉️ Email: ravi.sharama@example.com *(replace with your real email if you want to share it)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/ravisince2k/)
+- ✉️ Email: raviSince2k@gmail.com
 
 ---
 
